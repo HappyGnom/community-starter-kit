@@ -35,4 +35,10 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+> Thank you for contributing, @UserName! :smile:
+
+> WOW! Your first merge just got approved! Well done! :thumbsup:
+> 
+> ![Aprovement picture](https://us.123rf.com/450wm/catalin205/catalin2051706/catalin205170600238/80482196-handsome-classy-male-listening-good-music-and-showing-thumbs-up-on-dark-background.jpg?ver=6)
+
+> We are glad you joind our project! Thank you for the contribution! :heart:
