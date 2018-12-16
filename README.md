@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Welcome bot is a great way to make your project friendlier!
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Greets new contributors
+- Sends messages to thank new contributors
+- Congratulates with the first merge of a user
 
 ## Getting started
 
