@@ -1,4 +1,4 @@
-# welcome bot: A Probot App
+# Welcome bot: A Probot App
 
 Welcome bot is a great way to make your project friendlier!
 
